@@ -1,4 +1,6 @@
 # yet-a-site-for-resume
+## author
+- WANG Xiaoqiang
 
 ## prerequisites
 - Golang
