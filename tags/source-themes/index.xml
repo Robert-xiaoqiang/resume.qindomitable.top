@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Source Themes on WANG Xiaoqiang</title>
-    <link>http://resume.qindomitable.top/tags/source-themes/</link>
+    <link>https://resume.qindomitable.top/tags/source-themes/</link>
     <description>Recent content in Source Themes on WANG Xiaoqiang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy;{year} WANG Xiaoqiang</copyright>
     <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="http://resume.qindomitable.top/tags/source-themes/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://resume.qindomitable.top/tags/source-themes/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>An example preprint / working paper</title>
-      <link>http://resume.qindomitable.top/publication/preprint/</link>
+      <link>https://resume.qindomitable.top/publication/preprint/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://resume.qindomitable.top/publication/preprint/</guid>
+      <guid>https://resume.qindomitable.top/publication/preprint/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
@@ -30,10 +30,10 @@
     
     <item>
       <title>An example journal article</title>
-      <link>http://resume.qindomitable.top/publication/journal-article/</link>
+      <link>https://resume.qindomitable.top/publication/journal-article/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://resume.qindomitable.top/publication/journal-article/</guid>
+      <guid>https://resume.qindomitable.top/publication/journal-article/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
@@ -52,10 +52,10 @@
     
     <item>
       <title>An example conference paper</title>
-      <link>http://resume.qindomitable.top/publication/conference-paper/</link>
+      <link>https://resume.qindomitable.top/publication/conference-paper/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
       
-      <guid>http://resume.qindomitable.top/publication/conference-paper/</guid>
+      <guid>https://resume.qindomitable.top/publication/conference-paper/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;div&gt;
     Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
