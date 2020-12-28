@@ -1,50 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on WANG Xiaoqiang</title>
-    <link>http://resume.qindomitable.top/tags/</link>
-    <description>Recent content in Tags on WANG Xiaoqiang</description>
+    <title>Tags on Xiaoqiang Wang</title>
+    <link>https://blog.qindomitable.top/tags/</link>
+    <description>Recent content in Tags on Xiaoqiang Wang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
-    <copyright>&amp;copy;{year} WANG Xiaoqiang</copyright>
+    <copyright>&amp;copy;2019-{year} Xiaoqiang Wang</copyright>
     <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-	    <atom:link href="http://resume.qindomitable.top/tags/index.xml" rel="self" type="application/rss+xml" />
+	    <atom:link href="https://blog.qindomitable.top/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Source Themes</title>
-      <link>http://resume.qindomitable.top/tags/source-themes/</link>
+      <link>https://blog.qindomitable.top/tags/source-themes/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://resume.qindomitable.top/tags/source-themes/</guid>
+      <guid>https://blog.qindomitable.top/tags/source-themes/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>http://resume.qindomitable.top/tags/deep-learning/</link>
+      <link>https://blog.qindomitable.top/tags/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://resume.qindomitable.top/tags/deep-learning/</guid>
+      <guid>https://blog.qindomitable.top/tags/deep-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demo</title>
-      <link>http://resume.qindomitable.top/tags/demo/</link>
+      <link>https://blog.qindomitable.top/tags/demo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://resume.qindomitable.top/tags/demo/</guid>
+      <guid>https://blog.qindomitable.top/tags/demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic</title>
-      <link>http://resume.qindomitable.top/tags/academic/</link>
+      <link>https://blog.qindomitable.top/tags/academic/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://resume.qindomitable.top/tags/academic/</guid>
+      <guid>https://blog.qindomitable.top/tags/academic/</guid>
       <description></description>
     </item>
     
