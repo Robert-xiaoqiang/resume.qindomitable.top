@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>Courses on Xiaoqiang Wang</title>
     <link>https://blog.qindomitable.top/courses/</link>
     <description>Recent content in Courses on Xiaoqiang Wang</description>
+=======
+    <title>Courses on WANG Xiaoqiang</title>
+    <link>https://resume.qindomitable.top/courses/</link>
+    <description>Recent content in Courses on WANG Xiaoqiang</description>
+>>>>>>> master
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2019-{year} Xiaoqiang Wang</copyright>
     <lastBuildDate>Sun, 05 May 2019 00:00:00 +0100</lastBuildDate>
     
+<<<<<<< HEAD
 	    <atom:link href="https://blog.qindomitable.top/courses/index.xml" rel="self" type="application/rss+xml" />
+=======
+	    <atom:link href="https://resume.qindomitable.top/courses/index.xml" rel="self" type="application/rss+xml" />
+>>>>>>> master
     
     
     <item>

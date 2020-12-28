@@ -3,46 +3,79 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+<<<<<<< HEAD
     <loc>https://blog.qindomitable.top/courses/example/example1/</loc>
+=======
+    <loc>https://resume.qindomitable.top/courses/example/example1/</loc>
+>>>>>>> master
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://blog.qindomitable.top/courses/example/</loc>
+=======
+    <loc>https://resume.qindomitable.top/courses/example/</loc>
+>>>>>>> master
     <lastmod>2018-09-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://blog.qindomitable.top/courses/example/example2/</loc>
+=======
+    <loc>https://resume.qindomitable.top/courses/example/example2/</loc>
+>>>>>>> master
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://blog.qindomitable.top/talk/example/</loc>
+=======
+    <loc>https://resume.qindomitable.top/talk/example/</loc>
+>>>>>>> master
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://blog.qindomitable.top/talk/</loc>
+=======
+    <loc>https://resume.qindomitable.top/talk/</loc>
+>>>>>>> master
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://blog.qindomitable.top/</loc>
+=======
+    <loc>https://resume.qindomitable.top/</loc>
+>>>>>>> master
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://blog.qindomitable.top/examples/</loc>
+=======
+    <loc>https://resume.qindomitable.top/post/</loc>
+>>>>>>> master
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://blog.qindomitable.top/examples/post/writing-technical-content/</loc>
+=======
+    <loc>https://resume.qindomitable.top/post/writing-technical-content/</loc>
+>>>>>>> master
     <lastmod>2019-07-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://blog.qindomitable.top/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
@@ -54,10 +87,25 @@
   
   <url>
     <loc>https://blog.qindomitable.top/publication_types/3/</loc>
+=======
+    <loc>https://resume.qindomitable.top/authors/admin/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://resume.qindomitable.top/publication_types/3/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://resume.qindomitable.top/publication/preprint/</loc>
+>>>>>>> master
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://blog.qindomitable.top/examples/publication/preprint/</loc>
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
@@ -69,90 +117,176 @@
   
   <url>
     <loc>https://blog.qindomitable.top/publication_types/</loc>
+=======
+    <loc>https://resume.qindomitable.top/authors/</loc>
+    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://resume.qindomitable.top/publication_types/</loc>
+    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://resume.qindomitable.top/publication/</loc>
+>>>>>>> master
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://blog.qindomitable.top/tags/source-themes/</loc>
+=======
+    <loc>https://resume.qindomitable.top/tags/source-themes/</loc>
+>>>>>>> master
     <lastmod>2019-04-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://blog.qindomitable.top/tags/</loc>
+=======
+    <loc>https://resume.qindomitable.top/tags/</loc>
+>>>>>>> master
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://blog.qindomitable.top/examples/post/jupyter/</loc>
+=======
+    <loc>https://resume.qindomitable.top/post/jupyter/</loc>
+>>>>>>> master
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://blog.qindomitable.top/slides/</loc>
+=======
+    <loc>https://resume.qindomitable.top/slides/</loc>
+>>>>>>> master
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://blog.qindomitable.top/slides/example/</loc>
+=======
+    <loc>https://resume.qindomitable.top/slides/example/</loc>
+>>>>>>> master
     <lastmod>2019-02-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://blog.qindomitable.top/tags/deep-learning/</loc>
+=======
+    <loc>https://resume.qindomitable.top/tags/deep-learning/</loc>
+>>>>>>> master
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://blog.qindomitable.top/tags/demo/</loc>
+=======
+    <loc>https://resume.qindomitable.top/tags/demo/</loc>
+>>>>>>> master
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://blog.qindomitable.top/examples/project/external-project/</loc>
+=======
+    <loc>https://resume.qindomitable.top/project/external-project/</loc>
+>>>>>>> master
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://blog.qindomitable.top/examples/project/internal-project/</loc>
+=======
+    <loc>https://resume.qindomitable.top/project/internal-project/</loc>
+>>>>>>> master
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://blog.qindomitable.top/tags/academic/</loc>
+=======
+    <loc>https://resume.qindomitable.top/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://resume.qindomitable.top/tags/academic/</loc>
+>>>>>>> master
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://blog.qindomitable.top/examples/post/getting-started/</loc>
+=======
+    <loc>https://resume.qindomitable.top/post/getting-started/</loc>
+>>>>>>> master
     <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://blog.qindomitable.top/publication_types/2/</loc>
+=======
+    <loc>https://resume.qindomitable.top/publication_types/2/</loc>
+>>>>>>> master
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://blog.qindomitable.top/examples/publication/journal-article/</loc>
+=======
+    <loc>https://resume.qindomitable.top/publication/journal-article/</loc>
+>>>>>>> master
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://blog.qindomitable.top/authors/robert-ford/</loc>
+=======
+    <loc>https://resume.qindomitable.top/authors/robert-ford/</loc>
+>>>>>>> master
     <lastmod>2015-09-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://blog.qindomitable.top/publication_types/1/</loc>
+=======
+    <loc>https://resume.qindomitable.top/publication_types/1/</loc>
+>>>>>>> master
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://blog.qindomitable.top/examples/publication/conference-paper/</loc>
+=======
+    <loc>https://resume.qindomitable.top/publication/conference-paper/</loc>
+>>>>>>> master
     <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+<<<<<<< HEAD
     <loc>https://blog.qindomitable.top/categories/</loc>
   </url>
   
@@ -162,6 +296,14 @@
   
   <url>
     <loc>https://blog.qindomitable.top/publication/</loc>
+=======
+    <loc>https://resume.qindomitable.top/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://resume.qindomitable.top/courses/</loc>
+>>>>>>> master
   </url>
   
 </urlset>
