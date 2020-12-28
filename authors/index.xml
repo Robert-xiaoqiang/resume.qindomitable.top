@@ -1,60 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-<<<<<<< HEAD
     <title>Authors on Xiaoqiang Wang</title>
-    <link>https://blog.qindomitable.top/authors/</link>
-    <description>Recent content in Authors on Xiaoqiang Wang</description>
-=======
-    <title>Authors on WANG Xiaoqiang</title>
     <link>https://resume.qindomitable.top/authors/</link>
-    <description>Recent content in Authors on WANG Xiaoqiang</description>
->>>>>>> master
+    <description>Recent content in Authors on Xiaoqiang Wang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2019-{year} Xiaoqiang Wang</copyright>
     <lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
     
-<<<<<<< HEAD
-	    <atom:link href="https://blog.qindomitable.top/authors/index.xml" rel="self" type="application/rss+xml" />
-=======
 	    <atom:link href="https://resume.qindomitable.top/authors/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> master
     
     
     <item>
       <title></title>
-<<<<<<< HEAD
-      <link>https://blog.qindomitable.top/authors/admin/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.qindomitable.top/authors/admin/</guid>
-      <description>&lt;p&gt;Xiaoqiang Wang is a master student interested in playing in Zhejiang University. His research interests include graph neural networks and their applications to V+L (visual language inference) task.&lt;/p&gt;
-=======
       <link>https://resume.qindomitable.top/authors/admin/</link>
       <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://resume.qindomitable.top/authors/admin/</guid>
-      <description>&lt;p&gt;WANG Xiaoqiang is an undergraduate interested in playing in Zhejiang University. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.&lt;/p&gt;
-
-&lt;p&gt;王晓强是一个孩子&lt;/p&gt;
->>>>>>> master
+      <description>&lt;p&gt;Xiaoqiang Wang is a master student interested in playing in Zhejiang University. His research interests include graph neural networks and their applications to V+L (visual language inference) task.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Robert Ford</title>
-<<<<<<< HEAD
-      <link>https://blog.qindomitable.top/authors/robert-ford/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.qindomitable.top/authors/robert-ford/</guid>
-=======
       <link>https://resume.qindomitable.top/authors/robert-ford/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
       
       <guid>https://resume.qindomitable.top/authors/robert-ford/</guid>
->>>>>>> master
       <description></description>
     </item>
     

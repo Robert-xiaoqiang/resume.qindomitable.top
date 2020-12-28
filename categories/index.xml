@@ -1,24 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-<<<<<<< HEAD
     <title>Categories on Xiaoqiang Wang</title>
-    <link>https://blog.qindomitable.top/categories/</link>
-    <description>Recent content in Categories on Xiaoqiang Wang</description>
-=======
-    <title>Categories on WANG Xiaoqiang</title>
     <link>https://resume.qindomitable.top/categories/</link>
-    <description>Recent content in Categories on WANG Xiaoqiang</description>
->>>>>>> master
+    <description>Recent content in Categories on Xiaoqiang Wang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2019-{year} Xiaoqiang Wang</copyright>
     
-<<<<<<< HEAD
-	    <atom:link href="https://blog.qindomitable.top/categories/index.xml" rel="self" type="application/rss+xml" />
-=======
 	    <atom:link href="https://resume.qindomitable.top/categories/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> master
     
     
   </channel>

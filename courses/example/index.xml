@@ -1,45 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-<<<<<<< HEAD
     <title>Overview on Xiaoqiang Wang</title>
-    <link>https://blog.qindomitable.top/courses/example/</link>
-    <description>Recent content in Overview on Xiaoqiang Wang</description>
-=======
-    <title>Overview on WANG Xiaoqiang</title>
     <link>https://resume.qindomitable.top/courses/example/</link>
-    <description>Recent content in Overview on WANG Xiaoqiang</description>
->>>>>>> master
+    <description>Recent content in Overview on Xiaoqiang Wang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2019-{year} Xiaoqiang Wang</copyright>
     <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0000</lastBuildDate>
     
-<<<<<<< HEAD
-	    <atom:link href="https://blog.qindomitable.top/courses/example/index.xml" rel="self" type="application/rss+xml" />
-=======
 	    <atom:link href="https://resume.qindomitable.top/courses/example/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> master
     
     
     <item>
       <title>Example Page 1</title>
-<<<<<<< HEAD
-      <link>https://blog.qindomitable.top/courses/example/example1/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://blog.qindomitable.top/courses/example/example1/</guid>
-      <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
-=======
       <link>https://resume.qindomitable.top/courses/example/example1/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
       <guid>https://resume.qindomitable.top/courses/example/example1/</guid>
-      <description>
-
-&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
-
->>>>>>> master
+      <description>&lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-1&#34;&gt;Tip 1&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
@@ -57,22 +36,11 @@
     
     <item>
       <title>Example Page 2</title>
-<<<<<<< HEAD
-      <link>https://blog.qindomitable.top/courses/example/example2/</link>
-      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
-      
-      <guid>https://blog.qindomitable.top/courses/example/example2/</guid>
-      <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
-=======
       <link>https://resume.qindomitable.top/courses/example/example2/</link>
       <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
       
       <guid>https://resume.qindomitable.top/courses/example/example2/</guid>
-      <description>
-
-&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
-
->>>>>>> master
+      <description>&lt;p&gt;Here are some more tips for getting started with Academic:&lt;/p&gt;
 &lt;h2 id=&#34;tip-3&#34;&gt;Tip 3&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;

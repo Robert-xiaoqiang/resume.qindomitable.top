@@ -1,51 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-<<<<<<< HEAD
     <title>Slides on Xiaoqiang Wang</title>
-    <link>https://blog.qindomitable.top/slides/</link>
-    <description>Recent content in Slides on Xiaoqiang Wang</description>
-=======
-    <title>Slides on WANG Xiaoqiang</title>
     <link>https://resume.qindomitable.top/slides/</link>
-    <description>Recent content in Slides on WANG Xiaoqiang</description>
->>>>>>> master
+    <description>Recent content in Slides on Xiaoqiang Wang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2019-{year} Xiaoqiang Wang</copyright>
     <lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-<<<<<<< HEAD
-	    <atom:link href="https://blog.qindomitable.top/slides/index.xml" rel="self" type="application/rss+xml" />
-=======
 	    <atom:link href="https://resume.qindomitable.top/slides/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> master
     
     
     <item>
       <title>Slides</title>
-<<<<<<< HEAD
-      <link>https://blog.qindomitable.top/slides/example/</link>
-      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://blog.qindomitable.top/slides/example/</guid>
-      <description>&lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34;&gt;Academic&lt;/a&gt;&lt;/p&gt;
-&lt;hr&gt;
-=======
       <link>https://resume.qindomitable.top/slides/example/</link>
       <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://resume.qindomitable.top/slides/example/</guid>
-      <description>
-
-&lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34; target=&#34;_blank&#34;&gt;Academic&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
->>>>>>> master
+      <description>&lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/&#34;&gt;Academic&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
 &lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;

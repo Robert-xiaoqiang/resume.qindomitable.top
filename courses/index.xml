@@ -1,33 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-<<<<<<< HEAD
     <title>Courses on Xiaoqiang Wang</title>
-    <link>https://blog.qindomitable.top/courses/</link>
-    <description>Recent content in Courses on Xiaoqiang Wang</description>
-=======
-    <title>Courses on WANG Xiaoqiang</title>
     <link>https://resume.qindomitable.top/courses/</link>
-    <description>Recent content in Courses on WANG Xiaoqiang</description>
->>>>>>> master
+    <description>Recent content in Courses on Xiaoqiang Wang</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2019-{year} Xiaoqiang Wang</copyright>
     <lastBuildDate>Sun, 05 May 2019 00:00:00 +0100</lastBuildDate>
     
-<<<<<<< HEAD
-	    <atom:link href="https://blog.qindomitable.top/courses/index.xml" rel="self" type="application/rss+xml" />
-=======
 	    <atom:link href="https://resume.qindomitable.top/courses/index.xml" rel="self" type="application/rss+xml" />
->>>>>>> master
     
     
     <item>
       <title>Overview</title>
-      <link>https://blog.qindomitable.top/courses/example/</link>
+      <link>https://resume.qindomitable.top/courses/example/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://blog.qindomitable.top/courses/example/</guid>
+      <guid>https://resume.qindomitable.top/courses/example/</guid>
       <description>&lt;h2 id=&#34;flexibility&#34;&gt;Flexibility&lt;/h2&gt;
 &lt;p&gt;This feature can be used for publishing content such as:&lt;/p&gt;
 &lt;ul&gt;
